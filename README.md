@@ -21,3 +21,4 @@ pytest -q
 - **Exam alignment**: mirrors the five-column comparison (**purpose, layer, state, visibility, risk**) in docs.
 
 See `lawpages/lawpage_dhcp_nat.md` for concept cards and invariants.
+# nat-dhcp-lab
